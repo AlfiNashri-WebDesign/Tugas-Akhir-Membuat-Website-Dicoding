@@ -1,4 +1,3 @@
-# Tugas-Akhir-Membuat-Website-Dicoding
 Tugas Akhir Membuat Website Profile Dicoding 
 
 Salah Satu syarat Lulus Belajar Website dicoding.com
